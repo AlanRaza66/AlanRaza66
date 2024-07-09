@@ -32,4 +32,4 @@ Thank you for visiting my GitHub profile!
 
 **Contact:**
 
-- Email: [your-email@example.com](mailto:alanraza66@gmail.com)
+- Email: [alanraza66@gmail.com](mailto:alanraza66@gmail.com)
