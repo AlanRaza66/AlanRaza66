@@ -33,3 +33,5 @@ Thank you for visiting my GitHub profile!
 **Contact:**
 
 - Email: [alanraza66@gmail.com](mailto:alanraza66@gmail.com)
+- Instagram: [alan._.raza](https://www.instagram.com/alan._.raza/)
+- Facebook: [Alan Raza](https://www.facebook.com/alan.raza.587)
