@@ -1,16 +1,35 @@
-### Hi there 👋
+# Welcome to My GitHub
 
-<!--
-**AlanRaza66/AlanRaza66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+👋 Hi there! I'm a frontend developer passionate about **Vue.js** and **Nuxt.js**. I love creating sleek and performant user interfaces and am always on the lookout for new techniques and technologies to enhance my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Core Skills
+
+- **Languages and Frameworks:**
+  - Vue
+  - Nuxt js
+  - React
+  - JavaScript (ES6+)
+  - Typescript
+  - HTML5
+  - CSS3
+
+- **Tools and Technologies:**
+  - Vue Router
+  - Nuxt Content
+  - Prisma ORM
+  - Pinia
+  - Zod
+
+## Hobby: Photography
+
+📸 Outside of development, I'm an avid photography enthusiast. I love capturing unique moments and scenes, and I find photography to be a great way to express myself artistically. You can check out some of my photos on [my Instagram account](https://www.instagram.com/alan._.raza/) or [my portfolio](https://alanraza66.onrender.com/).
+
+Thank you for visiting my GitHub profile!
+
+---
+
+**Contact:**
+
+- Email: [your-email@example.com](mailto:alanraza66@gmail.com)
