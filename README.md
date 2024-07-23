@@ -2,7 +2,7 @@
 
 ## About Me
 
-👋 Hi there! I'm a frontend developer passionate about **Vue.js** and **Nuxt.js**. I love creating sleek and performant user interfaces and am always on the lookout for new techniques and technologies to enhance my skills.
+👋 Hi there! I'm Alan Razafinimanana, a frontend developer passionate about **Vue.js** and **Nuxt.js**. I love creating sleek and performant user interfaces and am always on the lookout for new techniques and technologies to enhance my skills.
 
 ### My Core Skills
 
