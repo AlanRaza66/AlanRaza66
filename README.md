@@ -21,6 +21,9 @@
   - Prisma ORM
   - Pinia
   - Zod
+ 
+### Github trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlanRaza66&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Hobby: Photography
 
