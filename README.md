@@ -11,6 +11,7 @@
   - Nuxt js
   - React
   - JavaScript (ES6+)
+  - Laravel
   - Typescript
   - HTML5
   - CSS3
