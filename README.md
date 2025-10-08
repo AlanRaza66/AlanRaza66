@@ -15,6 +15,7 @@
   - Typescript
   - HTML5
   - CSS3
+  - Tailwind CSS
 
 - **Tools and Technologies:**
   - Vue Router
